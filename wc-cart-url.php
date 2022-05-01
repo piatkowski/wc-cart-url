@@ -23,7 +23,7 @@ if (!class_exists('WC_Cart_Url\Plugin')) {
 	class Plugin
 	{
 		private static $session_cart_keys = array(
-			'cart', 'cart_totals', 'applied_coupons', 'coupon_discount_totals', 'coupon_discount_tax_totals', 'removed_cart_contents'
+			'cart', 'cart_totals', 'applied_coupons', 'coupon_discount_totals', 'coupon_discount_tax_totals'
 		);
 
 		public static function init()
