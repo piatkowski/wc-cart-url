@@ -1,3 +1,7 @@
+# About
+
+WC Cart URL is a simple plugin that allows the Store Manager/Administrator to prepare a shopping cart and generate a link to share. The customer can view a prepared cart and make a purchase.
+
 # Installation
 
 1. Download repository as ZIP file
